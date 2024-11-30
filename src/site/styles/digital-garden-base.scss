@@ -14,11 +14,11 @@ body {
 }
 
 img {
-    max-width: 60%;
+    max-width: 75%;
 }
 
 .content {
-    max-width: 800px;
+    max-width: 900px;
     margin: auto;
     font-size: 18px;
     line-height: 1.5;
@@ -69,7 +69,7 @@ ul.task-list {
     min-width: 25px;
     display: flex;
     z-index: 3;
-    max-width: 150px;
+    max-width: 250px;
 
     .graph {
         width: 320px;

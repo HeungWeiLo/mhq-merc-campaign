@@ -35,4 +35,4 @@
 > | 1 | LBX-AC/10 | Right Torso | 20 |
 
 
-![CHP-1N.png|Champion|575](/img/user/z_Assets/Mech%20Sheets/CHP-1N.png)
+![CHP-1N.png|Champion](/img/user/z_Assets/Mech%20Sheets/CHP-1N.png)
